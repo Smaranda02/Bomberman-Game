@@ -1,4 +1,4 @@
-# Unabomber-Game
+# Bomberman-Game
 
 ## Some backstory:
 
