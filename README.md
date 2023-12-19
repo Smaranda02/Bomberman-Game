@@ -36,7 +36,13 @@ before making it to the next level, of course, within the given time limit.
 
 ![image](https://github.com/Smaranda02/Bomberman-Game/assets/62556419/d8d919b7-417f-4472-aa60-e9de000af90f)
 
+## Setup 
 
+![setup](https://github.com/Smaranda02/Bomberman-Game/assets/62556419/bd7d747b-4a6f-43ae-ac07-0dfecaa3104c)
+
+## Detailed demo 
+
+Youtube link for an in-depth look over the game's functionalities : 
 
 ## External libraries used:
 - LedControl.h -> for controlling the matrix
