@@ -50,3 +50,20 @@ Youtube link for an in-depth look over the game's functionalities : https://yout
 - LiquidCrystal.h -> for LCD control
 - EEPROM.h -> for interacting with EEPROM memory
 
+
+## EEPROM Map of the game 
+
+### Variables map
+0 -> LCD Brightness <br>
+1 -> Matrix Brightness <br>
+10 -> #1 Player <br>
+20 -> #2 Player <br>
+30 -> #3 Player <br>
+40 -> Sound Value <br>
+
+
+### Rooms map 
+
+![image](https://github.com/Smaranda02/Bomberman-Game/assets/62556419/39cc988b-29a5-49b1-b109-04938bb2b1f4)
+
+
