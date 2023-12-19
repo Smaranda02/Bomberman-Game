@@ -42,7 +42,7 @@ before making it to the next level, of course, within the given time limit.
 
 ## Detailed demo 
 
-Youtube link for an in-depth look over the game's functionalities : 
+Youtube link for an in-depth look over the game's functionalities : https://youtu.be/cCurrnF55tU
 
 ## External libraries used:
 - LedControl.h -> for controlling the matrix
